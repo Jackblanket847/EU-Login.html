@@ -2,3 +2,7 @@
 *.key
 *.pem
 credentials.md
+*.pem
+*.token
+*.key
+*.secret
